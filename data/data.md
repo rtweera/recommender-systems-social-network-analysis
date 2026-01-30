@@ -9,4 +9,5 @@
 - Rename it to `Connections.csv` if necessary
 - The data is now ready to be used in the notebooks
 
-> Note: The data only contains your connections, not their connections. To build a more extensive social network, additional data collection methods would be required.
+> **Note:** The data only contains your connections, not their connections. To build a more extensive social network, additional data collection methods would be required.
+> For privacy reasons, the actual data file is not included in this repository.
